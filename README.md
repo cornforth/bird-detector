@@ -4,7 +4,7 @@
    How? Read Time video. How? DNN. How? YOLO?
    
 ## Processes
-   -> Interage existing code \newline
-   -> Train the code => Weight \newline
-   -> Testing
+   -> Interage existing code \n
+   -> Train the code => Weight \n
+   -> Testing \n
    -> Simplify
